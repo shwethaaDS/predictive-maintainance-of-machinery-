@@ -1,1 +1,1 @@
-# predictive-maintainance-of-machinery-
+A comprehensive predictive maintenance system for industrial machinery.By utilizing data analysis and machine learning methods like XGBoost,SVM,Logistic Regression the goal is to provide a user-friendly interface for running and visualizing the results of predictive maintenance machine learning models on a given dataset.
